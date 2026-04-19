@@ -1,0 +1,350 @@
+{
+  "users": [
+    {
+      "name": "vinoth",
+      "email": "tvino10523@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": "977r_1ezd5w"
+    },
+    {
+      "name": "vinoth",
+      "email": "tvino10523@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": "36dEGT62lmI"
+    },
+    {
+      "name": "vinoth",
+      "email": "tvino10523@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": "nqZKOYOPtRI"
+    },
+    {
+      "name": "vinoth",
+      "email": "tvino10523@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": "1K-BNrk9bkw"
+    },
+    {
+      "name": "vinoth",
+      "email": "v2003@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "j0FIyjtBf8g"
+    },
+    {
+      "name": "vinoth",
+      "email": "v123@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "5pDBYN98Bww"
+    },
+    {
+      "name": "vv",
+      "email": "v@gmail.com",
+      "password": "1234",
+      "role": "user",
+      "id": "g2B_ZBef7lY"
+    },
+    {
+      "name": "vinoth",
+      "email": "abc@gmail.com",
+      "password": "abc",
+      "role": "user",
+      "id": "QO6LwC7DP9s"
+    },
+    {
+      "name": "vinoth",
+      "email": "abc123@gmail.com",
+      "password": "abc",
+      "role": "user",
+      "id": "R2B_lH2N4zA"
+    },
+    {
+      "name": "vinoth",
+      "email": "abcd@gmail.com",
+      "password": "abcd",
+      "role": "user",
+      "id": "g0oUgbIW53A"
+    },
+    {
+      "name": "vinoth",
+      "email": "xyz@gmail.com",
+      "password": "xyz",
+      "role": "user",
+      "id": "9XJWUcNUkDo"
+    },
+    {
+      "name": "vijay  ",
+      "email": "vijay@gmail.com",
+      "password": "abc",
+      "role": "manager",
+      "id": "7QLMznXKEGY"
+    },
+    {
+      "name": "manager",
+      "email": "manager@gmail.com",
+      "password": "manager",
+      "role": "manager",
+      "id": "ryNgmZGXOuU"
+    },
+    {
+      "name": "praveen",
+      "email": "praveen@gmail.com",
+      "password": "123",
+      "role": "manager",
+      "id": "7wBymbeSxzA"
+    },
+    {
+      "name": "ajith",
+      "email": "ajith@gmail.com",
+      "password": "123",
+      "role": "manager",
+      "id": "qXhp7wgLj9k"
+    },
+    {
+      "name": "vijay2",
+      "email": "vijay2@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "i3WW46L2Prw"
+    },
+    {
+      "name": "vinoth07",
+      "email": "vinoth07@gmail.com",
+      "password": "123",
+      "role": "manager",
+      "id": "EUMQ_9ELVZw"
+    },
+    {
+      "name": "vinoth123",
+      "email": "vinoth123@gmail.com",
+      "password": "123",
+      "role": "user",
+      "id": "kAA9LNeeO94"
+    },
+    {
+      "name": "aswin",
+      "email": "aswin@gmail.com",
+      "password": "123",
+      "role": "manager",
+      "id": "ZLdQ8KMzw9E"
+    },
+    {
+      "name": "admin",
+      "email": "admin07@gmail.com",
+      "password": "admin",
+      "role": "admin",
+      "id": "PWhETDV2liU"
+    },
+    {
+      "name": "member07",
+      "email": "member@gmail.com",
+      "password": "member",
+      "role": "team",
+      "id": "fMa9baw-tQQ"
+    },
+    {
+      "name": "member",
+      "email": "member01@gmail.com",
+      "password": "member",
+      "role": "team",
+      "id": "ZweVVIoSPDo"
+    },
+    {
+      "name": "Vinoth",
+      "email": "user@gmail.com",
+      "password": "user",
+      "role": "user",
+      "id": "tssSfEJzn6A"
+    },
+    {
+      "name": "member",
+      "email": "member2@gmail.com",
+      "password": "member",
+      "role": "team",
+      "id": "dBJfWO2Zo-I"
+    },
+    {
+      "name": "user2",
+      "email": "user2@gmail.com",
+      "password": "user",
+      "role": "user",
+      "id": "5tIayGlBukY"
+    },
+    {
+      "name": "user1",
+      "email": "user1@gmail.com",
+      "password": "useer",
+      "role": "user",
+      "id": "HPAK-3ylUpQ"
+    },
+    {
+      "name": "user01",
+      "email": "user01@gmail.com",
+      "password": "user01",
+      "role": "user",
+      "id": "LQBlDItwqIk"
+    },
+    {
+      "name": "member",
+      "email": "member08@gmail.com",
+      "password": "member",
+      "role": "team",
+      "id": "Z0kizvE8ATU"
+    },
+    {
+      "name": "admin",
+      "email": "admin1@gmail.com",
+      "password": "admin",
+      "role": "admin",
+      "id": "6qnfzJPbwJc"
+    }
+  ],
+  "tasks": [
+    {
+      "title": "Add data",
+      "assignedTo": "",
+      "dueDate": "2026-04-11",
+      "priority": "Medium",
+      "createdBy": "vijay@gmail.com",
+      "status": "Todo",
+      "id": "Gsu2ixEQhIQ"
+    },
+    {
+      "title": "Edit Code",
+      "assignedTo": "xyz@gmail.com",
+      "dueDate": "2026-04-12",
+      "priority": "Medium",
+      "createdBy": "vijay@gmail.com",
+      "status": "Todo",
+      "id": "1fbmAxUGdwc"
+    },
+    {
+      "title": "Coding",
+      "assignedTo": "xyz@gmail.com",
+      "dueDate": "2026-04-11",
+      "priority": "High",
+      "createdBy": "praveen@gmail.com",
+      "status": "Todo",
+      "id": "3a7ashJis4w"
+    },
+    {
+      "title": "Coding 3",
+      "assignedTo": "vinoth@gmail.com",
+      "dueDate": "2026-04-11",
+      "priority": "Medium",
+      "createdBy": "ajith@gmail.com",
+      "status": "Todo",
+      "id": "Bd1VyT6csgw"
+    },
+    {
+      "title": "Designing",
+      "assignedTo": "",
+      "dueDate": "2026-04-18",
+      "priority": "Medium",
+      "createdBy": "vinoth07@gmail.com",
+      "status": "Todo",
+      "id": "OYyRkhTDVJY"
+    },
+    {
+      "title": "Designing and Coding",
+      "assignedTo": "xyz@gmail.com",
+      "dueDate": "2026-04-19",
+      "priority": "Medium",
+      "createdBy": "aswin@gmail.com",
+      "status": "Todo",
+      "id": "Oq4-D8sWO2Q"
+    },
+    {
+      "title": "Programming",
+      "assignedTo": "vinoth@gmail.com",
+      "dueDate": "2026-04-20",
+      "priority": "Medium",
+      "createdBy": "aswin@gmail.com",
+      "status": "Todo",
+      "id": "GmqFXVOpnwY"
+    },
+    {
+      "title": "Editing ",
+      "assignedTo": "aswin@gmail.com",
+      "dueDate": "2026-04-19",
+      "priority": "Medium",
+      "createdBy": "manager@gmail.com",
+      "status": "Todo",
+      "id": "XNtJpYQg4IU"
+    },
+    {
+      "title": "Designing and Editing",
+      "assignedTo": "member01@gmail.com",
+      "dueDate": "2026-04-12",
+      "priority": "High",
+      "createdBy": "manager@gmail.com",
+      "status": "Todo",
+      "id": "ExYqa4tWPxE"
+    },
+    {
+      "title": "Editing and Designing",
+      "assignedTo": "user@gmail.com",
+      "dueDate": "2026-04-12",
+      "priority": "High",
+      "createdBy": "manager@gmail.com",
+      "status": "Todo",
+      "id": "zoHZF44tOJ8"
+    },
+    {
+      "title": "Programming",
+      "assignedTo": "member08@gmail.com",
+      "dueDate": "2026-04-12",
+      "priority": "Medium",
+      "createdBy": "manager@gmail.com",
+      "status": "Todo",
+      "id": "8kqNn-fYS7o"
+    },
+    {
+      "title": "Coding",
+      "assignedTo": "member08@gmail.com",
+      "dueDate": "2026-04-12",
+      "priority": "Medium",
+      "createdBy": "manager@gmail.com",
+      "status": "Todo",
+      "id": "xAJ_f1XyQu8"
+    },
+    {
+      "title": "Editing",
+      "assignedTo": "member@gmail.com",
+      "dueDate": "2026-04-21",
+      "priority": "High",
+      "createdBy": "manager@gmail.com",
+      "status": "Todo",
+      "description": "",
+      "category": "Uncategorized",
+      "labels": [],
+      "id": "evXFanaWVnM"
+    }
+  ],
+  "notifications": [
+    {
+      "to": "member08@gmail.com",
+      "message": "You were assigned a new task: Programming",
+      "date": "2026-04-10T21:59:48.567Z",
+      "id": "U0z5yjjbjn8"
+    },
+    {
+      "to": "member08@gmail.com",
+      "message": "You were assigned a new task: Coding",
+      "date": "2026-04-10T22:16:20.465Z",
+      "id": "1Sn1GOezGZY"
+    },
+    {
+      "to": "member@gmail.com",
+      "message": "📅 New Task Assigned: 'Editing' by manager",
+      "date": "2026-04-19T02:48:30.987Z",
+      "id": "vmWJO1X0FJo"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
